@@ -1,0 +1,13 @@
+{
+  "name": "youtube-ai-bot",
+  "version": "1.0.0",
+  "description": "Gemini AI bot for YouTube Live",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "express": "latest"
+  }
+}
